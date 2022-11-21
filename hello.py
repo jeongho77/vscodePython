@@ -18,3 +18,6 @@ num1 = int(input('input num1 : '))
 num2 = int(input('input num2 : '))
 # f-string (python 3.x)
 print(f"{num1}+{num2} = {num1 + num2}")
+
+for i in range(1,11):
+    print(i)
